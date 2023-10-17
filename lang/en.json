@@ -1,0 +1,12 @@
+{
+    "app-title": "My Appy Apperson",
+    "lead": "Welcome to my little spot on the interwebs, {username}!",
+    "home": "Home",
+    "about": "About",
+    "article-plural": {
+      "one": "{count} article and counting",
+      "other": "{count} articles and counting"
+    },
+    "nyan-cat-price": "Nyan Cat (Official) NFT: {price}",
+    "publish-date": "Published {publishDate}"
+  }
